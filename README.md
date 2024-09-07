@@ -1,2 +1,2 @@
 # cachorro-gato
-Trabalho
+Atividade avaliativa da matéria Projeto de Aplicativo Orientado a Objetos.
